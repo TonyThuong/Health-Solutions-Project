@@ -3,6 +3,20 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/font/font_size.xml" value="0.24583333333333332" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_di_chi_nhan_hang_them.xml" value="0.27793974732750243" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_dia_chi_nhan_hang.xml" value="0.1" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_feed_back.xml" value="0.25" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_main.xml" value="0.215625" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_san_pham_da_mua.xml" value="0.21240942028985507" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_thong_tin_hsscreen.xml" value="0.215625" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/activity_xac_nhan_don_hang.xml" value="0.1" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/items_dia_chi_nhan_hang.xml" value="0.25" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/items_sp_da_mua1.xml" value="0.215625" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/items_sp_da_mua2.xml" value="0.215625" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/items_xacNhanDonHang.xml" value="0.25" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/items_xac_nhan_don_hang.xml" value="0.1" />
+        <entry key="..\:/GitHub/Health-Solutions-Project/app/src/main/res/layout/sp_da_mua.xml" value="0.25" />
         <entry key="..\:/Health Solutions Project/Health Solutions Application/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12604166666666666" />
         <entry key="..\:/Health Solutions Project/Health Solutions Application/app/src/main/res/font/font.xml" value="0.23055555555555557" />
         <entry key="..\:/Health Solutions Project/Health Solutions Application/app/src/main/res/font/font_size.xml" value="0.23055555555555557" />
@@ -10,7 +24,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
