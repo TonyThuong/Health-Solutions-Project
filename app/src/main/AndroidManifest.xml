@@ -12,11 +12,7 @@
         <activity
             android:name=".Activity.XacNhanDonHangActivity"
             android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name=".Activity.diaChiNhanHangThemActivity"
@@ -24,7 +20,11 @@
         <activity
             android:name=".Activity.diaChiNhanHangActivity"
             android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
 
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name=".Activity.thongTinHSScreenActivity"
